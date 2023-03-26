@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on Microsoft BI,Tableau
-- 🌱 I’m currently learning data Visualization
+- 🔭 I’m currently working on  data Visualization
+- 🌱 I’m currently learning Microsoft BI,Tableau
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world
