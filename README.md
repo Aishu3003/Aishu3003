@@ -1,4 +1,4 @@
-DATA ANALYST | SQL | Excel | Power BI| Statistics | Machine Learning 
+- DATA ANALYST | SQL | Excel | Power BI| Statistics | Machine Learning 
 - 🔭 I’m currently working on  data Visualization
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
