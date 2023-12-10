@@ -1,5 +1,4 @@
-
-![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/Aishu3003/Aishu3003/assets/75210793/cd6cdb76-a9c9-4c18-860e-5e195990c4fe)
+![Margarita Perez](https://github.com/Aishu3003/Aishu3003/assets/75210793/3dc85df7-0a98-4c28-9b3a-c97931e0b432)
 
 - Computer Engineer| SQL | Java | Advanced java| DSA | C++ 
 - 🔭 I’m currently working on C# ,ASP.NET
