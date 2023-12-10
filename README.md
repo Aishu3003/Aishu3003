@@ -1,6 +1,6 @@
 - Computer Engineer| SQL | Java | Advanced java| DSA | C++ 
-- 🔭 I’m currently working on  data Visualization
-- :zap: I love math, programming, data science, and books
+- 🔭 I’m currently working on C# ,ASP.NET
+- :zap: I love  Eploring new things
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world
 - 📫 How to find me: 
