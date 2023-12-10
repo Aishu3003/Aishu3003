@@ -1,4 +1,5 @@
-![Margarita Perez](https://github.com/Aishu3003/Aishu3003/assets/75210793/3dc85df7-0a98-4c28-9b3a-c97931e0b432)
+
+![Margarita Perez](https://github.com/Aishu3003/Aishu3003/assets/75210793/ce559adb-9680-4186-8b1c-c2226c336221)
 
 - Computer Engineer| SQL | Java | Advanced java| DSA | C++ 
 - 🔭 I’m currently working on C# ,ASP.NET
