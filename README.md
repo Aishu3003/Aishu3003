@@ -1,3 +1,6 @@
+
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/Aishu3003/Aishu3003/assets/75210793/cd6cdb76-a9c9-4c18-860e-5e195990c4fe)
+
 - Computer Engineer| SQL | Java | Advanced java| DSA | C++ 
 - 🔭 I’m currently working on C# ,ASP.NET
 - :zap: I love  Eploring new things
