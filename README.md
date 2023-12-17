@@ -12,8 +12,6 @@ I'm a full stack developer...
 - 📫 How to find me:
 - 
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-chaudhari1205/)
-
-
- [![GitHub stars](https://img.shields.io/github/stars/Aishu3003/your-repo.svg)](https://github.com/Aishu3003/Java)
+[![Badge Label](Badge-URL)](https://github.com/Aishu3003)
 
 
