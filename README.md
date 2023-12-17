@@ -14,6 +14,6 @@ I'm a full stack developer...
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-chaudhari1205/)
 
 
-   https://github-readme-stats.vercel.app/api?username=Aishu3003&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Aishu3003/github-readme-stats)
- 
+ [![GitHub stars](https://img.shields.io/github/stars/Aishu3003/your-repo.svg)](https://github.com/Aishu3003)
+
 
