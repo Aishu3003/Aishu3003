@@ -4,8 +4,8 @@
 ## 🚀 About Me
 I'm a full stack developer...
 
-- Computer Engineer| SQL | Java | Advanced java| DSA | C++ 
-- 🔭 I’m currently working on C# ,ASP.NET
+- Computer Engineer| SQL | Java | Advanced java| DSA | C++ C# | ASP.NET
+- 🔭 I’m currently working on Reactjs ,Nodejs,ExpressJs
 - :zap: I love  Eploring new things
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world
